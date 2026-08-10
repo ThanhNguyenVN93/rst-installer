@@ -21,7 +21,7 @@ Tự động nhận diện thế hệ CPU/chipset Intel, cấu hình SATA/VMD hi
 
 ## Cách dùng
 
-1. Tải bản mới nhất ở mục [Releases](../../releases).
+1. Tải `Intel RST Auto Installer.exe` ở [Release v1.0.0](../../releases/tag/v1.0.0) — **chỉ tải đúng bản này**, các release khác (VD `driver-packages-v1`) là file mirror nội bộ, không phải app.
 2. Chạy `Intel RST Auto Installer.exe` (sẽ tự yêu cầu quyền Admin qua UAC).
 3. Xem thông tin CPU/VMD/SATA đã nhận diện và version RST khuyến nghị.
 4. Bấm **Download & Install** nếu có bản mới hơn bản đang cài.
