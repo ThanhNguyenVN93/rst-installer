@@ -1,0 +1,7 @@
+{
+  "8-9": { "version": "17.11.3.1010.2", "url": "https://downloadmirror.intel.com/773230/SetupRST.exe", "checksum": "BC077F9C784305330DF66195FF8C96FCE753B1E370189A6E036005B9E589F7AD", "fallbackUrl": "https://pub-a1cb4b0cb2994e1ebd829e526fdfa2b7.r2.dev/8-9.zip" },
+  "10-11": { "version": "18.7.6.1010.3", "url": "https://downloadmirror.intel.com/773229/SetupRST.exe", "checksum": "A2B2E20D6D8100E9EE344746F80849524C64490B90686A13C09268CADB976B37", "fallbackUrl": "https://pub-a1cb4b0cb2994e1ebd829e526fdfa2b7.r2.dev/10-11.zip" },
+  "12-13": { "version": "19.5.8.1059.2", "url": "https://downloadmirror.intel.com/849934/SetupRST.exe", "checksum": "8AF488ECD76258A0A539ADA28098A2961472D670572900AED216F48C712BC45B", "fallbackUrl": "https://pub-a1cb4b0cb2994e1ebd829e526fdfa2b7.r2.dev/12-13.zip" },
+  "14-15": { "version": "20.2.6.1025.3", "url": "https://downloadmirror.intel.com/872385/SetupRST.exe", "checksum": "C64BE83B75EDC6F516C963A18165BA0853970B078874832545FF99A3404EAC10", "fallbackUrl": "https://pub-a1cb4b0cb2994e1ebd829e526fdfa2b7.r2.dev/14-15.zip" },
+  "ultra-series-3": { "version": "21.1.0.1006.2", "url": "https://downloadmirror.intel.com/920457/SetupRST.exe", "checksum": "3FA94586855E094A61DF036C92B611153C42C28FC6DD642CACD0F3B85634884B", "fallbackUrl": "https://pub-a1cb4b0cb2994e1ebd829e526fdfa2b7.r2.dev/ultra-series-3.zip" }
+}
